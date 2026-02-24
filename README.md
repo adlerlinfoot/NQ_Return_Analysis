@@ -1,4 +1,4 @@
-# NQ\Return\_Analysis
+# NQ\_Return\_Analysis
 
 Return analysis of the Nasdaq 100 E-mini continuous futures contract (NQ).
 
